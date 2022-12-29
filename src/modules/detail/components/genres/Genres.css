@@ -1,0 +1,13 @@
+.Genres { 
+    padding: 5px;
+    background-color: #EF5CEF;
+    margin: 3px;
+    border-radius: 5px;
+    color: black;
+    font-weight: 600;
+}
+
+.Main {
+    display: flex;
+    flex-direction: row;
+}

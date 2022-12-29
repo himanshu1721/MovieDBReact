@@ -1,0 +1,8 @@
+* {
+  color: white;
+}
+
+.Main {
+  background-color: #111;
+  display: flex;
+}

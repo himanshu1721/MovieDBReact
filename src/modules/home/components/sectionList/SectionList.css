@@ -1,0 +1,9 @@
+.Title {
+  color: black;
+}
+
+
+.Movie-list { 
+    display: flex;
+    flex-direction: row;
+}

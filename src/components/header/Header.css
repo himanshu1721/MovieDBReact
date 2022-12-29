@@ -1,0 +1,25 @@
+.Header-all {
+  width: 100%;
+  flex: 1;
+  margin-bottom: 2%;
+}
+
+.Header {
+  height: 15vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-color: #00284b;
+  flex-direction: row;
+}
+.AppLogo {
+  align-self: center;
+  margin: 20%;
+  height: 50px;
+  object-fit: contain;
+}
+
+.HeaderStart {
+  padding: 20;
+}
+

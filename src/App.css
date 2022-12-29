@@ -1,5 +1,26 @@
 .App {
-  text-align: center;
+  color: black;
+}
+
+.Movie-card {
+  scale: 1;
+  transition: scale 0.2s;
+}
+
+.Movie-card-image :hover {
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.6);
+}
+
+.Movie-card:hover {
+  scale: 1.2;
+  z-index: 100;
+}
+
+.Movie-title {
+  margin-bottom: 5px;
+  color: black;
+  font-size: large;
+  font-weight: 600;
 }
 
 .App-logo {

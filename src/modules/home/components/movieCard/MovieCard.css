@@ -1,0 +1,8 @@
+.Movie-card {
+  margin-right: 3vh;
+}
+
+.Movie-card-image {
+  height: 30vh;
+  border-radius: 10px;
+}
